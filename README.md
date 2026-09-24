@@ -1,6 +1,8 @@
 # OXAI 2026
 
-Public workshop website: https://naser.github.io/oxai2026/
+Public workshop website: https://threadslab.org/oxai2026/
+
+GitHub Pages entry point: https://naser.github.io/oxai2026/ (redirects to the account's existing custom domain).
 
 Static HTML and CSS, published through GitHub Pages from the root of `main`.
 
