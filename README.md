@@ -1,10 +1,12 @@
 # OXAI 2026
 
-Public workshop website: https://threadslab.org/oxai2026/
+Primary workshop website: https://oxai2026.github.io/
 
-GitHub Pages entry point: https://naser.github.io/oxai2026/ (redirects to the account's existing custom domain).
+The existing address https://threadslab.org/oxai2026/ remains available. https://naser.github.io/oxai2026/ redirects to that address.
 
 Static HTML and CSS, published through GitHub Pages from the root of `main`.
+
+The same content is published to `oxai2026/oxai2026.github.io` and `naser/oxai2026`. In this checkout, push updates to both `workshop` and `origin` to keep the sites synchronized. Both copies identify https://oxai2026.github.io/ as the canonical URL.
 
 ## Content
 
