@@ -10,7 +10,7 @@ Static HTML and CSS, published through GitHub Pages from the root of `main`.
 
 - The local OXAI_2026_FDraft.pdf proposal is the source for the 2026 scope, five topic areas, contribution formats, and organizer details.
 - Organizer instructions override the proposal deadlines: submissions October 18, 2026 (AoE); notifications October 23, 2026.
-- The October 5, 2024 archived OXAI site informs the call-first structure and email submission instructions.
+- The October 5, 2024 archived OXAI site informs the call-first structure. Email submissions have been replaced by a CMT pending-approval notice; organizer email addresses are for questions only. CMT site request 27138 is awaiting a decision.
 - No Program navigation or schedule is published. The organizer selected November 10, 2026, the first day of CASCON programming, as the workshop date. Final materials are due one week earlier, November 3.
 - CASCON's official 2026 site supplies conference and registration links. Its overall dates are November 9–12; CSER is November 9, followed by CASCON November 10–12.
 
